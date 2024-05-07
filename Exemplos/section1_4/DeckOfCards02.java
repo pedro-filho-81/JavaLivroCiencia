@@ -34,7 +34,7 @@ public class DeckOfCards02 {
          String temp = deck[r];
          deck[r] = deck[i];
          deck[i] = temp;
-      }
+      } // end for 
 
       // print array value
       for (int i = 0; i < n; i++) {
