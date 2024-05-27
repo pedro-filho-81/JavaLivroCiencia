@@ -32,6 +32,6 @@ public class PowersOfTwo03 {
          power = 2 * power;
          // increment
          i = i + 1;
-      }
-   }
-}
+      } // end while
+   } // end main
+} // end class 
