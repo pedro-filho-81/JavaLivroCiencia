@@ -10,7 +10,9 @@ package section1_3;
 
 public class Sqrt07 {
    public static void main(String[] args) {
+      // entrada de dados
       double c = Double.parseDouble(args[0]);
+
       double EPSILON = 1e-15;
       double t = c;
       while (Math.abs(t - c / t) > EPSILON * t) {
