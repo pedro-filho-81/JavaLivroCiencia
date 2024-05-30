@@ -46,5 +46,5 @@ public class Exe02 {
       System.out.println("\nboolean a = false, b = false;");
       System.out.println("boolean exps = (!(a && b) && (a || b)) || ((a && b) || !(a || b));");
       System.out.println("Sendo a false e b false  resultado: " + exps);
-   } // final
+   } // final main
 } // final classe

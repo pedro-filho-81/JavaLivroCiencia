@@ -15,5 +15,5 @@ class Exe01 {
       System.out.println("int a = 1, t = a, b = a;");
       System.out.println("Todos os valores são iguais a ( a ).");
       System.out.println("o valor de t = " + t + " e b = " + b + "\n");
-   }
-}
+   } // end main
+} // end class
